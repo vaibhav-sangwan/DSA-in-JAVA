@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class misc_problems_2 {
+public class misc_2 {
 
     static Scanner s = new Scanner(System.in);
 

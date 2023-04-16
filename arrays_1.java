@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class arrays
+public class arrays_1
 {
     public static int find_arr_sum(int[] arr)
     {
